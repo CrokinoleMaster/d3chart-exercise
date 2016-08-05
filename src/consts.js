@@ -1,0 +1,5 @@
+export const DAILY_NORMALIZED = 'DAILY_NORMALIZED'
+
+export const CUMULATIVE = 'CUMULATIVE'
+
+export const YOY_CHANGE = 'YOY_CHANGE'
